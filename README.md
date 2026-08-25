@@ -37,7 +37,7 @@ to recognize handwritten letters using the EMNIST dataset.
 
 
 -----------------------------------------
-			 Tools & Languages
+			 TOOLS & LANGUAGES
 -----------------------------------------
 
 - C# 7.3
@@ -47,7 +47,7 @@ to recognize handwritten letters using the EMNIST dataset.
 
 
 -----------------------------------------
-			  How to Use
+			  HOW TO USE
 -----------------------------------------
 
 Initial setup:
@@ -67,7 +67,7 @@ Using the model:
 
 
 -----------------------------------------
-			  Attribution
+			  ATTRIBUTION
 -----------------------------------------
 
 Training of this model was made possible by the EMNIST dataset, a free collection of thousands 
