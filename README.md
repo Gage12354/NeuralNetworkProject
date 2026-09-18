@@ -1,5 +1,7 @@
 # NeuralNetworkProject
 
+![Interface](./Screenshots/screenshot1.png)
+
 -----------------------------------------
 				OVERVIEW
 -----------------------------------------
